@@ -1,0 +1,10 @@
+{
+    "name": "Nutrition Scanner",
+    "short_name": "NutriScan",
+    "description": "Scan and track nutritional information from food labels",
+    "start_url": "/",
+    "display": "standalone",
+    "background_color": "#ffffff",
+    "theme_color": "#4CAF50",
+    "icons": []
+}

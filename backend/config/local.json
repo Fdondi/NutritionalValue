@@ -1,0 +1,6 @@
+{
+    "model_path": "",
+    "gpu_enabled": true,
+    "gpu_device_id": 0,
+    "max_batch_size": 1
+} 

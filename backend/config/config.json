@@ -1,0 +1,12 @@
+{
+    "server": {
+        "port": "3080",
+        "static_dir": "./static"
+    },
+    "database": {
+        "path": "nutritional.db"
+    },
+    "ml": {
+        "type": "google"
+    }
+} 

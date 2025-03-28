@@ -1,0 +1,4 @@
+**/*.db
+**/*.db-*
+**/google-credentials.json
+**/google.json
